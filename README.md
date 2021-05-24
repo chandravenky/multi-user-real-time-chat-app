@@ -17,3 +17,5 @@
 4. Use the chatroom and try out the features
 
 Screenshots and GIFs coming soon
+
+Inspiration - Youtube
